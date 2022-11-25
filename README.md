@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaNjAy090704
+- 👋 Hi, I’m @Ranjay kumar
 - 👀 I’m interested in software engineering...
 - 🌱 I’m currently learning python and html..
 - 📫 How to reach me #ranjay09072004@gmail.com
