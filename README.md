@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ranjay kumar
 - 🧑‍🎓 Student at Lovely Professional University (3rd year),punjab
-- 🌱 Currently learning c++ and java..
+- 🌱 Currently learning java,dsa and development..
 - 📫 How to reach me #ranjay09072004@gmail.com
 - 👀 Learning and developing 
 <!---
